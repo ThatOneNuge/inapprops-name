@@ -1,2 +1,8 @@
+Another change
+
+Hold on now, this is an edit, I didn't see the first one, so what about this? 
+
+OKK, now editing. 
+
 git add test_file.txt
 
